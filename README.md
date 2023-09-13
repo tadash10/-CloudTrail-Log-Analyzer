@@ -1,4 +1,4 @@
-# -CloudTrail-Log-Analyzer
+
 # CloudTrail Log Analyzer
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
